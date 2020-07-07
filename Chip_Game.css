@@ -1,0 +1,17 @@
+body{
+  text-align: center;
+  margin: 10px;
+}
+
+.circle{
+  height: 100px;
+  width: 100px;
+  background-color: gray;
+  border-radius: 50%;
+  border: 2px solid black;
+  margin: 4px;
+}
+
+table{
+  margin: auto;
+}
